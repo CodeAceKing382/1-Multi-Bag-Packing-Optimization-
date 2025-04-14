@@ -1,3 +1,5 @@
+[Watch Walkthrough](./video_walkthrough.mp4)
+
 # Multi-Bag Packing Optimization
 
 This project implements an optimization model to help pack items into different shipping modes—specifically:
